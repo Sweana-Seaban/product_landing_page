@@ -1,0 +1,64 @@
+.container{
+    background-color: aliceblue;
+}
+
+.navbar{
+    background-color: azure;
+}
+
+li{
+    list-style-type: none;
+}
+
+.main-content{
+    background-color: blanchedalmond;
+}
+
+ul{
+    display: flex;
+    gap: 30px;
+}
+
+#logo{
+    margin-right: auto;
+}
+
+.main-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.product-image{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: cornsilk;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    
+}
+
+
+.product-intro{
+    display:flex;
+    flex-direction: column;
+    align-items: start;
+    
+
+}
+
+
+.footer{
+    background-color: darkgrey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
