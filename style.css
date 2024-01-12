@@ -1,18 +1,17 @@
-.container{
-    background-color: aliceblue;
-}
 
-.navbar{
-    background-color: azure;
-}
+/*body{
+    margin-top: 20px;
+}*/
+
+
+
 
 li{
     list-style-type: none;
 }
 
-.main-content{
-    background-color: blanchedalmond;
-}
+
+
 
 ul{
     display: flex;
