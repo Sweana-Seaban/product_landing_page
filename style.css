@@ -3,18 +3,25 @@ body{
     padding: 50px;
 }
 
-.glass_background 
-{
-    background: rgba( 255, 255, 255, 0.3 ); 
-    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 ); 
-    backdrop-filter: blur( 6.5px ); 
-    -webkit-backdrop-filter: blur( 6.5px );
+img{
+    width:150px;
+    height:250px;
 }
 
-img{
-    width: 150px;
-    height: 250px;
-    
+#gallery{
+    background-color: aliceblue;
+}
+
+.card-deck{
+    margin-top: 30px;
+}
+
+.clicks{
+    margin-top: 60px;
+}
+
+.navbar{
+    margin-top: 10px;
 }
 
 
